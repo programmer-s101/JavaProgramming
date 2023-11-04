@@ -30,9 +30,15 @@ Empower yourself with the ability to calculate Zakaat accurately and with confid
 
 
 ![Home](https://github.com/programmer-s101/JavaProgrammin![Not_Eligible](https://github.com/programmer-s101/JavaProgramming/assets/65153149/93e3feeb-2d96-4bb1-a9d3-171a7df31204)
-g/assets/65153149/c4d9603d-05ef-4a88-8047-9743c9af62a7)
+
+![Not_Eligible](https://github.com/programmer-s101/JavaProgramming/assets/65153149/65ab0c32-bf2e-4224-8182-623ac2adc8fa)
+
+![Alerts](https://github.com/programmer-s101/JavaProgramming/assets/65153149/14c6d84c-cc44-41a9-92da-15111b53de18)
+
 ![OverAll](https://github.com/pro![Alerts](![Silver_Calculator](https://github.com/programmer-s101/JavaProgramming/assets/65153149/7707fc55-4db9-4a85-86a3-ba07fa931a21)
-https://github.com/programmer-s101/JavaProgramming/assets/65153149/3ae419c2-2fbd-45b4-97d1-1fce6c94f4fe)
-grammer-s101/JavaProgramming/assets/65153149/65ee03c1-5589-40fa-9952-9f3545721f11)
+
 ![Gold](https://github.com/programmer-s101/JavaProgramming/assets/65153149/be0b3234-88dd-4cdb-9dc4-f1ae2b32a6fa)
+
 ![Cash_Calculator](https://github.com/programmer-s101/JavaProgramming/assets/65153149/993e0635-fe6d-4c15-bc2e-563ceb6d8d94)
+
+![Silver_Calculator](https://github.com/programmer-s101/JavaProgramming/assets/65153149/d94f76c4-a273-47c7-add0-86a8d696083b)
